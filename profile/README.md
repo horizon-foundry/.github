@@ -2,7 +2,7 @@
 
 Open-source product and engineering tools, created and maintained by **[Craig Martin](https://github.com/cjmartin2)**.
 
-Horizon Foundry is Craig Martin's studio: high-leverage product and engineering execution, from idea to production.
+Horizon Foundry is a product and engineering company. It works with companies on product, technology and AI decisions that are costly to get wrong, and builds products of its own.
 
 ## Projects
 
